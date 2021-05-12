@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 279.68503 396.8504"
+   width="74mm"
+   height="105mm"
+   version="1.1"
+   id="svg881"
+   sodipodi:docname="porte tete.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata885">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1121"
+     id="namedview883"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="0.84631035"
+     inkscape:cx="396.8504"
+     inkscape:cy="352.34366"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g877" />
+  <defs
+     id="defs845">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path833" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path836" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path838" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path840" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g877">
+    <path
+       d="m 35.483793,273.15638 a 9.44882,9.44882 0 1 0 -18.89764,0 9.44882,9.44882 0 1 0 18.89764,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path847" />
+    <path
+       d="m 157.56253,297.72338 a 37.03937,37.03937 0 1 0 -74.078737,0 37.03937,37.03937 0 1 0 74.078737,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path849" />
+    <path
+       d="m 224.46017,273.15638 a 9.44882,9.44882 0 1 0 -18.89764,0 9.44882,9.44882 0 1 0 18.89764,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path851" />
+    <path
+       d="m 163.23182,260.87298 a 5.858268,5.858268 0 1 0 -11.71653,0 5.858268,5.858268 0 1 0 11.71653,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path853" />
+    <path
+       d="m 89.531037,334.57378 a 5.858268,5.858268 0 1 0 -11.716535,0 5.858268,5.858268 0 1 0 11.716535,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path855" />
+    <path
+       d="m 163.23182,334.57378 a 5.858268,5.858268 0 1 0 -11.71653,0 5.858268,5.858268 0 1 0 11.71653,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path857" />
+    <path
+       d="m 35.483793,133.31388 a 9.44882,9.44882 0 1 0 -18.89764,0 9.44882,9.44882 0 1 0 18.89764,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path859" />
+    <path
+       d="m 224.46017,133.31388 a 9.44882,9.44882 0 1 0 -18.89764,0 9.44882,9.44882 0 1 0 18.89764,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path861" />
+    <path
+       d="m 184.96411,24.652494 a 5.85827,5.85827 0 1 0 -11.71654,0 5.85827,5.85827 0 1 0 11.71654,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path863" />
+    <path
+       d="m 67.798754,24.652494 a 5.858268,5.858268 0 1 0 -11.716536,0 5.858268,5.858268 0 1 0 11.716536,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path865" />
+    <path
+       d="m 184.96411,141.81788 a 5.85827,5.85827 0 1 0 -11.71654,0 5.85827,5.85827 0 1 0 11.71654,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path867" />
+    <path
+       d="m 67.798754,141.81788 a 5.858268,5.858268 0 1 0 -11.716536,0 5.858268,5.858268 0 1 0 11.716536,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path869" />
+    <path
+       d="m 162.09797,83.235184 a 41.574805,41.574805 0 1 0 -83.14961,0 41.574805,41.574805 0 1 0 83.14961,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path871" />
+    <path
+       d="m 89.531037,260.87298 a 5.858268,5.858268 0 1 0 -11.716535,0 5.858268,5.858268 0 1 0 11.716535,0 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path873" />
+    <path
+       d="M 44.932612,359.14068 A 37.795276,37.795276 0 0 1 7.1373328,321.34538 V 45.439894 A 37.795276,37.795276 0 0 1 44.932612,7.6446139 H 196.11371 A 37.795276,37.795276 0 0 1 233.90899,45.439894 V 321.34538 a 37.795276,37.795276 0 0 1 -37.79528,37.7953 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path875" />
+  </g>
+  <desc
+     id="desc879">porte tete.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+</svg>
